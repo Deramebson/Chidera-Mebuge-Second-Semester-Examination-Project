@@ -1,5 +1,5 @@
 IP ADDRESS : 13.49.44.157
-URL : 
+URL : https://altschool.dera.mooo.com/
 
 Documentation: 
 ## 1. Provisioning Your Server
